@@ -1,0 +1,23 @@
+{
+    "name": "Traintrack",
+    "keywords": "I2C, PCF8575, PCA9685, 16 channel, model train, led, button, contoller, servo, turnout",
+    "description": "Arduino library for train control",
+    "authors":
+    [
+      {
+        "name": "Sven Rymenants",
+        "email": "sven@byteworks.be",
+        "maintainer": true
+      }
+    ],
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/svenbw/traintrack.git"
+    },
+    "version": "1.0.0",
+    "license": "MIT",
+    "frameworks": "*",
+    "platforms": "*",
+    "headers": "Traintrack.h"
+  }
