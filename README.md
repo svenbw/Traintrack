@@ -1,3 +1,4 @@
+[![Arduino-lint](https://github.com/svenbw/Traintrack/actions/workflows/arduino-lint.yml/badge.svg)](https://github.com/svenbw/Traintrack/actions/workflows/arduino-lint.yml)
 [![GitHub issues](https://img.shields.io/github/issues/svenbw/Traintrack.svg)](https://github.com/svenbw/Traintrack/issues)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/svenbw/Traintrack/blob/master/LICENSE)
